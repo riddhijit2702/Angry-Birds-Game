@@ -1,2 +1,2 @@
-# Angry-Birds-Game
-This is the angry birds game done by my teacher and I
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
